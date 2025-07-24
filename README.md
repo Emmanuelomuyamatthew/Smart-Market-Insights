@@ -48,8 +48,8 @@ Using data collected from sample vendors, I:
 ---
 
 ## Live Demo
-- **Video Link:** [Insert YouTube or Drive video link]
-- **Google Drive Folder:** [Insert shared folder link]
+- [Video Demo](https://drive.google.com/file/d/15P_-JAJAtLPfmxByAtp3ItHSefl3hSOR/view?usp=drivesdk)
+- [Google Drive (ALL in ONE) Project Folder](https://drive.google.com/drive/folders/1me4biRTqdg7vSF7Sk7otqdm3je9AID5j)
 
 ---
 
