@@ -54,8 +54,4 @@ Using data collected from sample vendors, I:
 ---
 
 ## Tags
-#3MTTLearningCommunity #My3MTT @3MTTNigeria
-
-You can replace the [Insert …] placeholders with your actual links and Fellow ID.
-
-[Link to Project](https://drive.google.com/drive/folders/1me4biRTqdg7vSF7Sk7otqdm3je9AID5j)
+#3MTTLearningCommunity #My3MTT @3MTT Nigeria
