@@ -42,7 +42,7 @@ Using data collected from sample vendors, I:
 - [Analyzed Data](https://docs.google.com/spreadsheets/d/1Vkyv8dgBgv4wtAFiUtCiBjWVT_mzTTD5/edit?usp=drivesdk&ouid=109153846087373466674&rtpof=true&sd=true)
 - [Live Demo](https://drive.google.com/file/d/15P_-JAJAtLPfmxByAtp3ItHSefl3hSOR/view?usp=drivesdk)
 - [Charts](https://drive.google.com/drive/folders/15WErUljnZjKYkan67hU4wHxlkErnCKZA)
-- `report/SmartMarketInsights.pdf` – 1-page summary
+- [Report Summary](https://drive.google.com/file/d/16PgGj8dY90yzFvXhfGha8C4zrlBNunKc/view?usp=drivesdk(
 - `video/` – link to 3-minute showcase demo
 
 ---
