@@ -39,6 +39,7 @@ Using data collected from sample vendors, I:
 ## Files
 - [Project Ideation](https://docs.google.com/document/d/1n3mAbRELPN5nP6vemYbEO83ELogQ61Ww/edit?usp=drivesdk&ouid=109153846087373466674&rtpof=true&sd=true)
 - [Sample Data Set](https://docs.google.com/spreadsheets/d/1meIU0cv6Ik108Q6XYuWydbp_Gyx_Ked7/edit?usp=drivesdk&ouid=109153846087373466674&rtpof=true&sd=true)
+- [Analyzed Data](https://docs.google.com/spreadsheets/d/1Vkyv8dgBgv4wtAFiUtCiBjWVT_mzTTD5/edit?usp=drivesdk&ouid=109153846087373466674&rtpof=true&sd=true)
 - [Charts](https://drive.google.com/drive/folders/15WErUljnZjKYkan67hU4wHxlkErnCKZA)
 - `report/SmartMarketInsights.pdf` – 1-page summary
 - `video/` – link to 3-minute showcase demo
