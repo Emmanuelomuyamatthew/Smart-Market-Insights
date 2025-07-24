@@ -19,7 +19,7 @@ This project was created as part of the 3MTT Knowledge Showcase (May 2025) using
 ## Problem Statement
 Local market traders in towns like Owo often make decisions without data — leading to poor sales, overstocking, or underpricing. Many have no access to tools that can help them understand buying trends and pricing behavior.
 
---
+---
 ## Solution
 Using data collected from sample vendors, I:
 - Entered and cleaned the data using **Google Sheets**
