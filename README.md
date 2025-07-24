@@ -8,6 +8,7 @@ Smart Market Insights (SMI) is a mobile-powered data project designed to help lo
 **Fellow:** Emmanuel Omuya Matthew  
 **Learning Track:** Data Analysis & Visualization  
 **Fellow ID:**   FE/23/70116487
+
 **Toolset:** Google Sheets, Datawrapper, ChatGPT (Mobile)
 
 [Link to Project](https://drive.google.com/drive/folders/1me4biRTqdg7vSF7Sk7otqdm3je9AID5j)
