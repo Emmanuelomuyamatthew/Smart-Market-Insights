@@ -34,4 +34,25 @@ Using data collected from sample vendors, I:
 - AI-driven recommendations
 - Community-focused solution
 
+---
+
+## Files
+- `data/ANALYZED DATA: SMART MARKET INSIGHTs.xlsx` – sample dataset
+- `charts/` – screenshots of charts (line, bar, pie)
+- `report/SmartMarketInsights.pdf` – 1-page summary
+- `video/` – link to 3-minute showcase demo
+
+---
+
+## Live Demo
+- **Video Link:** [Insert YouTube or Drive video link]
+- **Google Drive Folder:** [Insert shared folder link]
+
+---
+
+## Tags
+#3MTTLearningCommunity #My3MTT @3MTTNigeria
+
+You can replace the [Insert …] placeholders with your actual links and Fellow ID.
+
 [Link to Project](https://drive.google.com/drive/folders/1me4biRTqdg7vSF7Sk7otqdm3je9AID5j)
