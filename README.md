@@ -43,12 +43,11 @@ Using data collected from sample vendors, I:
 - [Live Demo](https://drive.google.com/file/d/15P_-JAJAtLPfmxByAtp3ItHSefl3hSOR/view?usp=drivesdk)
 - [Charts](https://drive.google.com/drive/folders/15WErUljnZjKYkan67hU4wHxlkErnCKZA)
 - [Report Summary](https://drive.google.com/file/d/16PgGj8dY90yzFvXhfGha8C4zrlBNunKc/view?usp=drivesdk)
-- `video/` – link to 3-minute showcase demo
-
+  
 ---
 
 ## Live Demo
-- [Video Demo](https://drive.google.com/file/d/15P_-JAJAtLPfmxByAtp3ItHSefl3hSOR/view?usp=drivesdk)
+- [3 Mins Video Demo](https://drive.google.com/file/d/16_JBDy5wzNM8QnjI4rWh8vtAnNUZYe6d/view?usp=drivesdk)
 - [Google Drive (ALL in ONE) Project Folder](https://drive.google.com/drive/folders/1me4biRTqdg7vSF7Sk7otqdm3je9AID5j)
 
 ---
