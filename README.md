@@ -19,4 +19,18 @@ This project was created as part of the 3MTT Knowledge Showcase (May 2025) using
 ## Problem Statement
 Local market traders in towns like Owo often make decisions without data — leading to poor sales, overstocking, or underpricing. Many have no access to tools that can help them understand buying trends and pricing behavior.
 
+## Solution
+Using data collected from sample vendors, I:
+- Entered and cleaned the data using **Google Sheets**
+- Visualized key trends using **Datawrapper**
+- Used **ChatGPT** to generate simple, AI-powered insights that are easy for traders to understand
+
+---
+
+## Features
+- Mobile-first data collection and analysis
+- Charts: Pricing trends, sales volumes, product performance
+- AI-driven recommendations
+- Community-focused solution
+
 [Link to Project](https://drive.google.com/drive/folders/1me4biRTqdg7vSF7Sk7otqdm3je9AID5j)
