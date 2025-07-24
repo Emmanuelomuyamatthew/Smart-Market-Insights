@@ -12,7 +12,7 @@
 ## Overview
 Smart Market Insights (SMI) is a mobile-powered data project designed to help local traders make smarter inventory and pricing decision s using basic data analytics and AI tools
 
-This project was created as part of the 3MTT Knowledge Showcase (May 2025) using only a smartphone.
+This project was created as part of the 3MTT Knowledge Showcase (July 2025) using only a smartphone.
 
 ---
 
