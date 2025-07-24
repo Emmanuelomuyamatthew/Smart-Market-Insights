@@ -38,7 +38,7 @@ Using data collected from sample vendors, I:
 
 ## Files
 - [Sample Data Set](https://docs.google.com/spreadsheets/d/1meIU0cv6Ik108Q6XYuWydbp_Gyx_Ked7/edit?usp=drivesdk&ouid=109153846087373466674&rtpof=true&sd=true)
-- `charts/` – screenshots of charts (line, bar, pie)
+- [Charts](https://drive.google.com/drive/folders/15WErUljnZjKYkan67hU4wHxlkErnCKZA)
 - `report/SmartMarketInsights.pdf` – 1-page summary
 - `video/` – link to 3-minute showcase demo
 
